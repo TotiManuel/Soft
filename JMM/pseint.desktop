@@ -1,0 +1,8 @@
+[Desktop Entry]
+
+Encoding=UTF-8
+Name=pseint
+Type=Application
+Categories=Development
+Icon=pseint
+Exec="/home/toti/Escritorio/Julian/Programas/pseint/bin/../wxPSeInt"

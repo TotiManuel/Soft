@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Iniciar Servidor
+Comment=
+Exec=python server_locar.py
+Icon=network-server
+Path=/home/toti/Escritorio/Servidor
+Terminal=true
+StartupNotify=false

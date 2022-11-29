@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Trafico Aereo
+Comment=
+Exec=atc
+Icon=airplane-mode
+Path=
+Terminal=true
+StartupNotify=false

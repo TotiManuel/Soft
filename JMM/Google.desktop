@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Google
+Comment=
+Exec=python abrir_google.py
+Icon=google
+Path=/home/toti/Escritorio/Servidor/Atajos
+Terminal=true
+StartupNotify=true
